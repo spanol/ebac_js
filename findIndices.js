@@ -6,4 +6,4 @@ const findIndices = (arr) => {
   return { maxIndex, minIndex };
 };
 
-console.log(findIndices([10, 20, 5, 30, 15]));
+module.exports = { findIndices };

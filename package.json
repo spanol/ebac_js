@@ -1,0 +1,15 @@
+{
+  "name": "ebac_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findIndices.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^30.0.4"
+  }
+}

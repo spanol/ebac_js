@@ -10,4 +10,4 @@ const mdc = (a, b) => {
   return a;
 };
 
-console.log(mdc(12, 18));
+module.exports = { mdc };

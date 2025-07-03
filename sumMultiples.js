@@ -9,4 +9,4 @@ const sumMultiples = (cap = 1000) => {
   return sum;
 };
 
-console.log(sumMultiples());
+module.exports = { somarMultiplos: sumMultiples };
